@@ -10,7 +10,7 @@
 #'
 #' @export calculateShift
 #' @importFrom IRanges IntegerList IRanges LogicalList shift
-#' @importFrom GenomeInfoDb seqnames
+#' @importFrom Seqinfo seqnames
 #' @importFrom GenomicRanges end makeGRangesListFromFeatureFragments
 #' @importFrom S4Vectors Rle
 #' @import TxDb.Hsapiens.UCSC.hg19.knownGene
