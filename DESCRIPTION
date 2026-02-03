@@ -1,6 +1,6 @@
 Package: RgnTX
 Title: Colocalization analysis of transcriptome elements in the presence of isoform heterogeneity and ambiguity
-Version: 1.13.0
+Version: 1.13.1
 Authors@R: c(
     person("Yue", "Wang", , "yue.wang19@student.xjtlu.edu.cn", role = c("aut", "cre")),
     person("Jia", "Meng", , "jia.meng@xjtlu.edu.cn", role = c("aut")))
@@ -31,3 +31,4 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
+PackageStatus: Deprecated
